@@ -2,4 +2,4 @@
 
 A test just to demo GitHub
 
-## By Gunnar the Great
+## By Gunnar the sometimes Great
